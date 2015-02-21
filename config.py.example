@@ -1,0 +1,2 @@
+cookies = {"JSESSIONID": "some cookie string"}
+DB_CONNECTION_STRING = "psycopg2 connection string"
