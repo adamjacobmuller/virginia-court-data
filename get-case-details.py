@@ -47,17 +47,17 @@ def parse_stupid_one(table):
 case = None
 while True:
     if case is None:
-        cur.execute("select casenumber from cases where case_case_number is null limit 1")
-        case = cur.fetchone()[0]
+        cur.execute("select casenumber,fipsCode from cases where case_case_number is null limit 1")
+        case = cur.fetchone()
 
     html = "cases/%s.html" % case
 
     if os.path.exists(html):
         data = open(html).read()
     else:
-        url = "https://eapps.courts.state.va.us/gdcourts/caseSearch.do?formAction=caseDetails&displayCaseNumber=%s&&localFipsCode=025&caseActive=true&clientSearchCounter=4" % case
+        url = "https://eapps.courts.state.va.us/gdcourts/caseSearch.do?formAction=caseDetails&displayCaseNumber=%s&&localFipsCode=%03d&caseActive=true&clientSearchCounter=4" % (case[0], case[1])
         print url
-        response = requests.get(url, cookies = cookies, allow_redirects = False)
+        response = requests.get(url, cookies=cookies, allow_redirects=False)
         if 'You have exceeded the maximum number of requests allowed for a given time period' in response.text:
             print "> You have exceeded the maximum number of requests allowed for a given time period"
             time.sleep(4)
@@ -70,7 +70,7 @@ while True:
 
         print response
         print response.headers['location']
-        response = requests.get(response.headers['location'], cookies = cookies)
+        response = requests.get(response.headers['location'], cookies=cookies)
         print response
         if 'You have exceeded the maximum number of requests allowed for a given time period' in response.text:
             print "> You have exceeded the maximum number of requests allowed for a given time period"
@@ -114,7 +114,7 @@ while True:
         if 'Final Disposition' in str(table):
             data['disposition'] = parse_stupid_one(table.find_all("td"))
             #print json.dumps(result, indent = 4)
-            continue
+           continue
         #else:
         #    print "--------------------------------------------------------------------------------------"
         #    print table
