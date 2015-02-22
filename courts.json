@@ -1,0 +1,534 @@
+[
+   {
+      "name" : "Accomack General District Court",
+      "fipsCode" : 1
+   },
+   {
+      "fipsCode" : 3,
+      "name" : "Albemarle General District Court"
+   },
+   {
+      "name" : "Alexandria General District Court",
+      "fipsCode" : 510
+   },
+   {
+      "name" : "Alleghany General District Court",
+      "fipsCode" : 5
+   },
+   {
+      "name" : "Amelia General District Court",
+      "fipsCode" : 7
+   },
+   {
+      "fipsCode" : 9,
+      "name" : "Amherst General District Court"
+   },
+   {
+      "fipsCode" : 11,
+      "name" : "Appomattox General District Court"
+   },
+   {
+      "fipsCode" : 13,
+      "name" : "Arlington General District Court"
+   },
+   {
+      "name" : "Augusta General District Court",
+      "fipsCode" : 15
+   },
+   {
+      "fipsCode" : 17,
+      "name" : "Bath General District Court"
+   },
+   {
+      "fipsCode" : 19,
+      "name" : "Bedford General District Court"
+   },
+   {
+      "fipsCode" : 21,
+      "name" : "Bland General District Court"
+   },
+   {
+      "name" : "Botetourt General District Court",
+      "fipsCode" : 23
+   },
+   {
+      "fipsCode" : 520,
+      "name" : "Bristol General District Court"
+   },
+   {
+      "name" : "Brunswick General District Court",
+      "fipsCode" : 25
+   },
+   {
+      "name" : "Buchanan General District Court",
+      "fipsCode" : 27
+   },
+   {
+      "name" : "Buckingham General District Court",
+      "fipsCode" : 29
+   },
+   {
+      "name" : "Buena Vista General District Court",
+      "fipsCode" : 530
+   },
+   {
+      "name" : "Campbell General District Court",
+      "fipsCode" : 31
+   },
+   {
+      "name" : "Caroline General District Court",
+      "fipsCode" : 33
+   },
+   {
+      "name" : "Carroll General District Court",
+      "fipsCode" : 35
+   },
+   {
+      "fipsCode" : 36,
+      "name" : "Charles City General District Court"
+   },
+   {
+      "fipsCode" : 37,
+      "name" : "Charlotte General District Court"
+   },
+   {
+      "name" : "Charlottesville General District Court",
+      "fipsCode" : 540
+   },
+   {
+      "name" : "Chesapeake General District Court",
+      "fipsCode" : 550
+   },
+   {
+      "name" : "Chesterfield General District Court",
+      "fipsCode" : 41
+   },
+   {
+      "fipsCode" : 43,
+      "name" : "Clarke General District Court"
+   },
+   {
+      "name" : "Colonial Heights General District Court",
+      "fipsCode" : 570
+   },
+   {
+      "name" : "Craig General District Court",
+      "fipsCode" : 45
+   },
+   {
+      "name" : "Culpeper General District Court",
+      "fipsCode" : 47
+   },
+   {
+      "name" : "Cumberland General District Court",
+      "fipsCode" : 49
+   },
+   {
+      "name" : "Danville General District Court",
+      "fipsCode" : 590
+   },
+   {
+      "name" : "Dickenson General District Court",
+      "fipsCode" : 51
+   },
+   {
+      "name" : "Dinwiddie General District Court",
+      "fipsCode" : 53
+   },
+   {
+      "fipsCode" : 595,
+      "name" : "Emporia General District Court"
+   },
+   {
+      "fipsCode" : 57,
+      "name" : "Essex General District Court"
+   },
+   {
+      "name" : "Fairfax City General District Court",
+      "fipsCode" : 600
+   },
+   {
+      "fipsCode" : 59,
+      "name" : "Fairfax County General District Court"
+   },
+   {
+      "fipsCode" : 610,
+      "name" : "Falls Church General District Court"
+   },
+   {
+      "fipsCode" : 61,
+      "name" : "Fauquier General District Court"
+   },
+   {
+      "name" : "Floyd General District Court",
+      "fipsCode" : 63
+   },
+   {
+      "fipsCode" : 65,
+      "name" : "Fluvanna General District Court"
+   },
+   {
+      "name" : "Franklin City General District Court",
+      "fipsCode" : 620
+   },
+   {
+      "fipsCode" : 67,
+      "name" : "Franklin County General District Court"
+   },
+   {
+      "fipsCode" : 69,
+      "name" : "Frederick General District Court"
+   },
+   {
+      "name" : "Fredericksburg General District Court",
+      "fipsCode" : 630
+   },
+   {
+      "fipsCode" : 640,
+      "name" : "Galax General District Court"
+   },
+   {
+      "name" : "Giles General District Court",
+      "fipsCode" : 71
+   },
+   {
+      "fipsCode" : 73,
+      "name" : "Gloucester General District Court"
+   },
+   {
+      "name" : "Goochland General District Court",
+      "fipsCode" : 75
+   },
+   {
+      "name" : "Grayson General District Court",
+      "fipsCode" : 77
+   },
+   {
+      "name" : "Greene General District Court",
+      "fipsCode" : 79
+   },
+   {
+      "fipsCode" : 81,
+      "name" : "Greensville General District Court"
+   },
+   {
+      "name" : "Halifax General District Court",
+      "fipsCode" : 83
+   },
+   {
+      "name" : "Hampton General District Court",
+      "fipsCode" : 650
+   },
+   {
+      "fipsCode" : 85,
+      "name" : "Hanover General District Court"
+   },
+   {
+      "fipsCode" : 165,
+      "name" : "Harrisonburg/Rockingham General District Court"
+   },
+   {
+      "name" : "Henrico General District Court",
+      "fipsCode" : 87
+   },
+   {
+      "name" : "Henry General District Court",
+      "fipsCode" : 89
+   },
+   {
+      "fipsCode" : 91,
+      "name" : "Highland General District Court"
+   },
+   {
+      "name" : "Hopewell General District Court",
+      "fipsCode" : 670
+   },
+   {
+      "name" : "Isle of Wight General District Court",
+      "fipsCode" : 93
+   },
+   {
+      "fipsCode" : 99,
+      "name" : "King George General District Court"
+   },
+   {
+      "name" : "King William General District Court",
+      "fipsCode" : 101
+   },
+   {
+      "name" : "King and Queen General District Court",
+      "fipsCode" : 97
+   },
+   {
+      "name" : "Lancaster General District Court",
+      "fipsCode" : 103
+   },
+   {
+      "name" : "Lee General District Court",
+      "fipsCode" : 105
+   },
+   {
+      "name" : "Lexington/Rockbridge General District Court",
+      "fipsCode" : 163
+   },
+   {
+      "name" : "Loudoun General District Court",
+      "fipsCode" : 107
+   },
+   {
+      "fipsCode" : 109,
+      "name" : "Louisa General District Court"
+   },
+   {
+      "name" : "Lunenburg General District Court",
+      "fipsCode" : 111
+   },
+   {
+      "fipsCode" : 680,
+      "name" : "Lynchburg General District Court"
+   },
+   {
+      "fipsCode" : 113,
+      "name" : "Madison General District Court"
+   },
+   {
+      "fipsCode" : 690,
+      "name" : "Martinsville General District Court"
+   },
+   {
+      "fipsCode" : 115,
+      "name" : "Mathews General District Court"
+   },
+   {
+      "fipsCode" : 117,
+      "name" : "Mecklenburg General District Court"
+   },
+   {
+      "fipsCode" : 119,
+      "name" : "Middlesex General District Court"
+   },
+   {
+      "name" : "Montgomery/Blacksburg General District Court",
+      "fipsCode" : 122
+   },
+   {
+      "name" : "Montgomery/Christiansburg General District Court",
+      "fipsCode" : 121
+   },
+   {
+      "name" : "Nelson General District Court",
+      "fipsCode" : 125
+   },
+   {
+      "name" : "New Kent General District Court",
+      "fipsCode" : 127
+   },
+   {
+      "fipsCode" : 703,
+      "name" : "Newport News-Civil General District Court"
+   },
+   {
+      "fipsCode" : 701,
+      "name" : "Newport News-Criminal General District Court"
+   },
+   {
+      "fipsCode" : 702,
+      "name" : "Newport News-Traffic General District Court"
+   },
+   {
+      "fipsCode" : 713,
+      "name" : "Norfolk-Civil General District Court"
+   },
+   {
+      "fipsCode" : 711,
+      "name" : "Norfolk-Criminal General District Court"
+   },
+   {
+      "fipsCode" : 712,
+      "name" : "Norfolk-Traffic General District Court"
+   },
+   {
+      "fipsCode" : 131,
+      "name" : "Northampton General District Court"
+   },
+   {
+      "name" : "Northumberland General District Court",
+      "fipsCode" : 133
+   },
+   {
+      "name" : "Nottoway General District Court",
+      "fipsCode" : 135
+   },
+   {
+      "name" : "Orange General District Court",
+      "fipsCode" : 137
+   },
+   {
+      "name" : "Page General District Court",
+      "fipsCode" : 139
+   },
+   {
+      "fipsCode" : 141,
+      "name" : "Patrick General District Court"
+   },
+   {
+      "fipsCode" : 730,
+      "name" : "Petersburg General District Court"
+   },
+   {
+      "fipsCode" : 143,
+      "name" : "Pittsylvania General District Court"
+   },
+   {
+      "name" : "Portsmouth General District Court",
+      "fipsCode" : 740
+   },
+   {
+      "fipsCode" : 145,
+      "name" : "Powhatan General District Court"
+   },
+   {
+      "name" : "Prince Edward General District Court",
+      "fipsCode" : 147
+   },
+   {
+      "fipsCode" : 149,
+      "name" : "Prince George General District Court"
+   },
+   {
+      "fipsCode" : 153,
+      "name" : "Prince William General District Court"
+   },
+   {
+      "fipsCode" : 155,
+      "name" : "Pulaski General District Court"
+   },
+   {
+      "name" : "Radford General District Court",
+      "fipsCode" : 750
+   },
+   {
+      "fipsCode" : 157,
+      "name" : "Rappahannock General District Court"
+   },
+   {
+      "fipsCode" : 159,
+      "name" : "Richmond County General District Court"
+   },
+   {
+      "name" : "Richmond-Civil General District Court",
+      "fipsCode" : 763
+   },
+   {
+      "fipsCode" : 761,
+      "name" : "Richmond-Criminal General District Court"
+   },
+   {
+      "name" : "Richmond-Traffic General District Court",
+      "fipsCode" : 762
+   },
+   {
+      "name" : "Richmond Manchester General District Court",
+      "fipsCode" : 764
+   },
+   {
+      "name" : "Roanoke City General District Court",
+      "fipsCode" : 770
+   },
+   {
+      "name" : "Roanoke County General District Court",
+      "fipsCode" : 161
+   },
+   {
+      "name" : "Russell General District Court",
+      "fipsCode" : 167
+   },
+   {
+      "name" : "Salem General District Court",
+      "fipsCode" : 775
+   },
+   {
+      "fipsCode" : 169,
+      "name" : "Scott General District Court"
+   },
+   {
+      "fipsCode" : 171,
+      "name" : "Shenandoah General District Court"
+   },
+   {
+      "name" : "Smyth General District Court",
+      "fipsCode" : 173
+   },
+   {
+      "fipsCode" : 175,
+      "name" : "Southampton General District Court"
+   },
+   {
+      "name" : "Spotsylvania General District Court",
+      "fipsCode" : 177
+   },
+   {
+      "name" : "Stafford General District Court",
+      "fipsCode" : 179
+   },
+   {
+      "name" : "Staunton General District Court",
+      "fipsCode" : 790
+   },
+   {
+      "name" : "Suffolk General District Court",
+      "fipsCode" : 800
+   },
+   {
+      "name" : "Surry General District Court",
+      "fipsCode" : 181
+   },
+   {
+      "fipsCode" : 183,
+      "name" : "Sussex General District Court"
+   },
+   {
+      "fipsCode" : 185,
+      "name" : "Tazewell General District Court"
+   },
+   {
+      "name" : "Virginia Beach General District Court",
+      "fipsCode" : 810
+   },
+   {
+      "name" : "Warren General District Court",
+      "fipsCode" : 187
+   },
+   {
+      "name" : "Washington General District Court",
+      "fipsCode" : 191
+   },
+   {
+      "name" : "Waynesboro General District Court",
+      "fipsCode" : 820
+   },
+   {
+      "fipsCode" : 193,
+      "name" : "Westmoreland General District Court"
+   },
+   {
+      "fipsCode" : 830,
+      "name" : "Williamsburg/James City County General District Court"
+   },
+   {
+      "fipsCode" : 840,
+      "name" : "Winchester General District Court"
+   },
+   {
+      "fipsCode" : 195,
+      "name" : "Wise/Norton General District Court"
+   },
+   {
+      "fipsCode" : 197,
+      "name" : "Wythe General District Court"
+   },
+   {
+      "fipsCode" : 199,
+      "name" : "York General District Court"
+   }
+]
